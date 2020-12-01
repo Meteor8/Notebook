@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1541930320 source:c:\users\dong\desktop\dong\工具\c\back\shops\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1541931587 source:c:\users\dong\desktop\dong\工具\c\back\shops\wood.c
+	"wood.h"
+
+1541930501 c:\users\dong\desktop\dong\工具\c\back\shops\wood.h
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1541926344 source:c:\users\dong\desktop\dong\工具\c\back\shop\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Warehouse.h"
+
+1541924559 source:c:\users\dong\desktop\dong\工具\c\back\shop\warehouse.c
+	"Warehouse.h"
+
+1541926739 c:\users\dong\desktop\dong\工具\c\back\shop\warehouse.h
+	<stdio.h>
+	<stdlib.h>
+
